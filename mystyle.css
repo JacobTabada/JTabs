@@ -241,7 +241,7 @@ li.s:hover{
 @keyframes loop2 {
     0%{
         opacity:0%;
-        transform: rotate(5deg)
+        transform: rotate(15deg)
     }
 
     100%{
